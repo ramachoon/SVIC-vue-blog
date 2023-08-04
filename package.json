@@ -11,7 +11,7 @@
     "start": "concurrently \"cd server && node app.js\" \"npm run dev\" --location=global\""
   },
   "dependencies": {
-    "@progress/kendo-vue-layout": "^3.11.0",
+    "@progress/kendo-vue-layout": "^3.11.1",
     "@vueup/vue-quill": "^1.2.0",
     "@wangeditor/editor-for-vue": "^5.1.12",
     "axios": "^1.4.0",
