@@ -1,1 +1,1 @@
-npm start
+npm start or yarn start
